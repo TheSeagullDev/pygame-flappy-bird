@@ -3,7 +3,7 @@
 # and commit this file to your remote git repository to share the goodness with others.
 
 tasks:
-  - command: pip install pygame
+  - init: pip install pygame
   - command: python main.py
 
 
