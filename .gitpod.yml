@@ -6,4 +6,5 @@ tasks:
   - init: pip install pygame
   - command: python main.py
 
-
+image:
+  file: dockerfile
